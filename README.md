@@ -4,7 +4,7 @@ Live gesture recognition for American Sign Language and real time video/audio co
 # Technologies used
 - Agora.io's Web RTC SDK
 - Socket.io
-- HTML/CSS/JS
+- HTML/CSS/JS 
 - Tensorflow.js, KNN Image Classifier, Deeplearn.js
 - Bootstrapped from Google's [Teachable-Machine](https://github.com/googlecreativelab/teachable-machine)
 

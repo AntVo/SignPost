@@ -5,8 +5,10 @@ import {KNNImageClassifier} from 'deeplearn-knn-image-classifier';
 import * as dl from 'deeplearn';
 import io from 'socket.io-client';
 
-// INPUT SOCKET SERVER HERE
-const socket = io('https://explevi.serveo.net');
+// For Local Host
+const socket = io('localhost:3000');
+// If you host the app on a server use the below instead.
+// const socket = io('https://hosted-application-url.com');
 
 
 socket.on('emitAudio', function (data) {

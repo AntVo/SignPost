@@ -1,0 +1,54 @@
+body{
+	background-color: #F0FFFF;
+}
+.dev-select{
+	display: none;
+}
+
+html{
+	background-color: #F0FFFF;
+	margin-top:-100px;
+}
+
+
+#appId, #publish, #unpublish{
+	display: none;
+}
+
+#channel{
+	width: 50%;
+}
+
+.chnn{
+	margin-top:4px;
+	margin-bottom:10px;
+}
+
+.training{
+	display: none;
+}
+
+.panel-body{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	margin-left: 7%;
+	margin-right: 7%;
+	height: 310px;
+}
+
+#div_join{
+	margin-top: 25%;
+	margin-left: 25%;
+	width: 45%;
+}
+
+.btn{
+	margin-top: 7px;
+}
+#title{
+	font-family: 'Brush Script MT';
+	font-size: 60px;
+	margin-bottom: 20px;
+}

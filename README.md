@@ -1,5 +1,5 @@
 # SignPost
-Live gesture recognition for American Sign Language and real time video/audio communication. 
+Live gesture recognition for American Sign Language and real time video/audio communication. Submission to API World 2018 Hackathon.
 
 # Technologies used
 - Agora.io's Web RTC SDK
@@ -16,7 +16,10 @@ Live gesture recognition for American Sign Language and real time video/audio co
 
 # Optional Set-up (Deployment to a proxy web server)
 4) navigate to socket_server directory
-4a) ssh -R 80:localhost:3000 serveo.net
+
+4.a) ssh -R 80:localhost:3000 serveo.net
+
 5) install ngrok on your machine.
-5a) ngrok http -bind-tls=true localhost:9966
+
+5.a) ngrok http -bind-tls=true localhost:9966
 

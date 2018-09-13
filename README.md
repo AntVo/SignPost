@@ -1,5 +1,5 @@
 # SignPost
-Live gesture recognition for American Sign Language and real time video/audio communication. Submission to API World 2018 Hackathon.
+Live gesture recognition for American Sign Language and real time video/audio communication. Submission to API World 2018 Hackathon. Bootstrapped with Google's Teachable-Machine!
 
 # Technologies used
 - Agora.io's Web RTC SDK
